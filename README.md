@@ -7,8 +7,11 @@ Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statis
 - **[League of Legends Win Prediction](https://github.com/bjmcdonald002/lol-win-predict)**  
   Trained multiple binary classifiers (XGBoost, LightGBM, neural nets, PCA + logistic regression) on ranked solo/duo match data. Validated using k-fold CV and shuffle tests. Full methodology and results available.
 
-- **[Cryptocurrency Forecasting (In Progress)]**  
-  Developing a forecasting model using principal component analysis, chaos theory, and sentiment-driven features.
+- **[Linear Regression via Gradient Descent](https://github.com/bjmcdonald002/linear-regression-gd)**
+  Trained gradient‑descent regressor on 15 feature‑set combinations with 5‑fold cross‑validation and early stopping (75 total runs) to pinpoint the most predictive inputs.
+
+- **[Cryptocurrency Forecasting](https://github.com/yourusername/crypto-pca-chaos)** ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) — Developing…
+  Developing forecasting models using statistical and machine learning algorithms.
 
 ## 🛠 Tools & Languages
 Python, R, NumPy, scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, LaTeX
