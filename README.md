@@ -1,5 +1,3 @@
-# bjmcdonald002.github.io
-
 Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statistics concentration) with a focus on predictive modeling, robust statistics, and data-driven research. This site showcases selected projects and skills I've developed through academic research and independent work.
 
 ## 🔍 Projects
