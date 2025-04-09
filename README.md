@@ -4,7 +4,7 @@ Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statis
 
 ## 🔍 Projects
 
-- **[League of Legends Win Prediction](https://github.com/yourusername/lol-win-predict)**  
+- **[League of Legends Win Prediction]((https://github.com/bjmcdonald002/lol-win-predict))**  
   Trained multiple binary classifiers (XGBoost, LightGBM, neural nets, PCA + logistic regression) on ranked solo/duo match data. Validated using k-fold CV and shuffle tests. Full methodology and results available.
 
 - **[Cryptocurrency Forecasting (In Progress)](https://github.com/yourusername/crypto-pca-chaos)**  
