@@ -8,7 +8,7 @@ Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statis
 - **[Linear Regression via Gradient Descent](https://github.com/bjmcdonald002/linear-regression-gd)**  
   Trained gradient-descent regressor on 15 feature-set combinations with 5-fold cross-validation and early stopping (75 total runs) to pinpoint the most predictive inputs.
 
-- **[Multiclass Neural Network Classification](https://github.com/bjmcdonald002/multiclass-neural-net)**  
+- **[Multiclass Neural Network Classification](https://github.com/bjmcdonald002/multiclass-neural-network)**  
   Graduate-level project: multi-class neural-network classification with data preprocessing, architecture comparison, and robust model evaluation. Achieved highest accuracy in class.
 
 - **[Cryptocurrency Forecasting](https://github.com/yourusername/crypto-pca-chaos)** ![Coming Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey)  
