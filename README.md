@@ -1,4 +1,4 @@
-Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statistics concentration) with a focus on predictive modeling, robust statistics, and data-driven research. This site showcases selected projects and skills I've developed through academic research and independent work.
+Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statistics concentration) with a focus on predictive modeling and data-driven research. This site showcases selected projects and skills I've developed through academic research and independent work.
 
 ## 🔍 Projects
 
