@@ -11,7 +11,7 @@ Welcome to my data science portfolio. I'm a Ph.D. student in mathematics (statis
 - **[Multiclass Neural Network Classification](https://github.com/bjmcdonald002/multiclass-neural-network)**  
   Graduate-level project: multi-class neural-network classification with data preprocessing, architecture comparison, and robust model evaluation. Achieved highest accuracy in class.
 
-- **[Cryptocurrency Forecasting](https://github.com/yourusername/crypto-forecasting)**
+- **[Cryptocurrency Forecasting](https://github.com/yourusername/crypto-forecasting)**  
   Developing cryptocurrency forecasting models using statistical and machine-learning algorithms.
 
 ## 🛠 Tools & Languages
