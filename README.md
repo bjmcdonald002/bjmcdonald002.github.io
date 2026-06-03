@@ -9,7 +9,7 @@ Welcome to my data science portfolio. I'm a Ph.D. candidate in mathematics (stat
   Implemented linear regression via gradient descent and evaluated 15 feature-set combinations using 5-fold cross-validation and early stopping (75 total runs) to identify the most predictive variables.
   
 - **[Multiclass Neural Network Classification](https://github.com/bjmcdonald002/multiclass-neural-network)**  
-  Graduate-level project: multi-class neural-network classification with data preprocessing, architecture comparison, and robust model evaluation. Achieved highest accuracy in class.
+  Graduate-level project: multi-class neural-network classification with data preprocessing, architecture comparison, and robust model evaluation. Model achieved top predictive performance in the course.
 
 - **[Cryptocurrency Forecasting](https://github.com/bjmcdonald002/crypto-forecasting)**  
   Developing cryptocurrency forecasting models using statistical and machine-learning algorithms.
