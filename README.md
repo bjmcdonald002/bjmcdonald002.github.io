@@ -6,7 +6,7 @@ Welcome to my data science and applied statistics portfolio. I am a Ph.D. candid
   Dissertation research using hidden Markov models to identify changing system states from volatility, trend, and persistence features, with cryptocurrency markets as a case study. The work emphasizes generalized Hurst exponents, causal state inference, walk forward evaluation, held-out testing, robustness analysis, and avoidance of look-ahead bias.
 
 * **[League of Legends Match-Outcome Classification](https://github.com/bjmcdonald002/lol-win-predict)**
-  Published research comparing statistical and machine-learning classifiers for match outcomes using post-game statistics. Evaluated predictive performance and robustness across multiple model families and identified predictors that generalized across modeling approaches.
+  Published research comparing statistical and machine learning classifiers for match outcomes using post-game statistics. Evaluated predictive performance and robustness across multiple model families and identified predictors that generalized across modeling approaches.
   *McDonald & Ramachandran, “Classifying Match Outcomes Using Post-Game Statistics in League of Legends,” ICSTA 2026. DOI: 10.11159/icsta26.105.*
 
 * **Reliability Analysis of Diesel Generator Fan Failure Data**
