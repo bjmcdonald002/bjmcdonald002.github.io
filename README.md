@@ -12,7 +12,7 @@ Welcome to my data science and applied statistics portfolio. I am a Ph.D. candid
 * **Reliability Analysis of Diesel Generator Fan Failure Data**
   Graduate reliability analysis project using censored time-to-failure data in R. Fit Weibull, exponential, and lognormal models using maximum likelihood estimation and evaluated model fit, reliability, hazard, cumulative hazard, and mean time to failure.
 
-* **Factorial Experimental Design: Paper Airplane Performance**
+* **[Factorial Experimental Design: Paper Airplane Performance](https://github.com/bjmcdonald002/paper-airplane-factorial-design)**
   Designed and analyzed a factorial experiment examining the effects of plane design, paper weight, and launch angle. Evaluated main effects, interactions, and model diagnostics, and redesigned the experiment after excessive initial variability to improve practical interpretation.
 
 ## 💻 Additional Computational & Machine Learning Projects
