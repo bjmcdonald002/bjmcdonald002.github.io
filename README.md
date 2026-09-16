@@ -9,11 +9,11 @@ Welcome to my data science and applied statistics portfolio. I am a Ph.D. candid
   Published research comparing statistical and machine learning classifiers for match outcomes using post-game statistics. Evaluated predictive performance and robustness across multiple model families and identified predictors that generalized across modeling approaches.
   *McDonald & Ramachandran, “Classifying Match Outcomes Using Post-Game Statistics in League of Legends,” ICSTA 2026. DOI: 10.11159/icsta26.105.*
 
-* **Reliability Analysis of Diesel Generator Fan Failure Data**
-  Graduate reliability analysis project using censored time-to-failure data in R. Fit Weibull, exponential, and lognormal models using maximum likelihood estimation and evaluated model fit, reliability, hazard, cumulative hazard, and mean time to failure.
+* **[Reliability Analysis of Diesel Generator Fan Failure Data](https://github.com/bjmcdonald002/diesel-generator-fan-reliability)**
+  Graduate reliability analysis project using censored time to failure data in R. Fit Weibull, exponential, and lognormal models using maximum likelihood estimation; compared model fit with AIC and BIC; and evaluated Kaplan–Meier survival, hazard behavior, probability plot diagnostics, and mean time to failure.
 
 * **[Factorial Experimental Design: Paper Airplane Performance](https://github.com/bjmcdonald002/paper-airplane-factorial-design)**
-  Designed and analyzed a factorial experiment examining the effects of plane design, paper weight, and launch angle. Evaluated main effects, interactions, and model diagnostics, and redesigned the experiment after excessive initial variability to improve practical interpretation.
+  Designed and analyzed a factorial experiment examining the effects of plane design, paper weight, and launch angle. Evaluated main effects, interactions, and model diagnostics, and redesigned the experiment after excessive initial variability to improve measurement consistency and practical interpretation.
 
 ## 💻 Additional Computational & Machine Learning Projects
 
