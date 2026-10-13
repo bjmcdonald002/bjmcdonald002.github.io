@@ -1,4 +1,4 @@
-Welcome to my data science and applied statistics portfolio. I am a Ph.D. candidate in mathematics (statistics concentration) with research interests in statistical modeling, hidden state methods, machine learning, and complex nonstationary systems. This site showcases selected work from my dissertation research, published research, graduate coursework, and independent computational projects.
+Welcome to my data science and applied statistics portfolio. I am a Ph.D. candidate in mathematics (statistics concentration) with research interests in statistical modeling, latent state modeling, machine learning, and complex nonstationary systems. This site showcases selected work from my dissertation research, published research, graduate coursework, and independent computational projects.
 
 ## 🔍 Selected Projects
 
