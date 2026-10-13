@@ -15,6 +15,9 @@ Welcome to my data science and applied statistics portfolio. I am a Ph.D. candid
 * **[Factorial Experimental Design: Paper Airplane Performance](https://github.com/bjmcdonald002/paper-airplane-factorial-design)**
   Designed and analyzed a factorial experiment examining the effects of plane design, paper weight, and launch angle. Evaluated main effects, interactions, and model diagnostics, and redesigned the experiment after excessive initial variability to improve measurement consistency and practical interpretation.
 
+* **[Regression Analysis and Model Selection for Real Estate Data](https://github.com/bjmcdonald002/real-estate-regression-analysis)**
+  Graduate regression analysis project reconstructed in R using residential sale price data. Evaluated response transformations, categorical predictors, and all 2,048 main effect predictor subsets; assessed predictive performance with model selection repeated within cross validation folds; and examined residual diagnostics and sensitivity to influential observations.
+
 ## 💻 Additional Computational & Machine Learning Projects
 
 * **[Linear Regression via Gradient Descent](https://github.com/bjmcdonald002/linear-regression-gd)**
